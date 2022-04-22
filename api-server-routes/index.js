@@ -7,16 +7,6 @@ require('dotenv').config();
 const ManagementClient = require('auth0').ManagementClient
 
 
-const management = new ManagementClient({
-  domain: process.env.AUTH0_DOMAIN,
-  clientId: process.env.API_CLIENTID,
-  clientSecret: process.env.API_SECRET,
-  audience: process.env.MGMT_API_AUDIENCE,
-  scope: 'read:users update:users'
-})
-
-const {domain} = process.env.AUTH0_DOMAIN
-
 // normally I would prefer type checking here, but that is what typescript is for. 
 const routesModule = function(checkJwt) {
 
