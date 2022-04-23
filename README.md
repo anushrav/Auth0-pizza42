@@ -1,6 +1,6 @@
 # Pizza42 App 
 
-This repository hosts the code written by Anushrav Vatsa for a technical exercise. Pizza42 demo app is designed showcase the Auth0 platform's IAM capabilities. The application leverages Auth0's Identity Platform and web APIs. It was built with React and Express frameworks using [Auth0's React Sampel SPA](https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01).
+This repository hosts the code for Anushrav Vatsa's enchanced Pizza42 demo app designed to showcase the Auth0 platform's IAM capabilities. The application leverages Auth0's Identity Platform and web APIs. It was built with React and Express frameworks using [Auth0's React Sampel SPA](https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01).
 
 Live demo hosted at: https://pizza42-demo-app.herokuapp.com/
 
