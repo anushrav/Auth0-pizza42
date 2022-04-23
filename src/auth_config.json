@@ -1,7 +1,7 @@
 {
-  "domain": "pizza42.demo-platform.auth0app.com",
-  "clientId": "mtcKexAk5G2kMqACP2lKOrfJtWt6qo4N",
-  "audience": "https://pizza42.demo-platform.auth0app.com/api/orders",
-  "appOrigin": "http://localhost:3000",
-  "apiOrigin": "http://localhost:3001"  
+  "domain": "{Auth0 Domain}",
+  "clientId": "{SPA ClientID}",
+  "audience": "{Odering API Indeitfier}",
+  "appOrigin": "{Origin for your App}",
+  "apiOrigin": "{Origin for your API}" 
 }
