@@ -1,4 +1,4 @@
-# Auth0-pizza42
+# Pizza42 App 
 
 This repository hosts the code written by Anushrav Vatsa for a technical exercise.
 The application leverages Auth0's Identity Platform and web APIs. It was built with React and Express frameworks using [Auth0's React Sampel SPA](https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01).
@@ -11,8 +11,6 @@ Live demo hosted at: https://pizza42-demo-app.herokuapp.com/
 2. NPM ( use `brew install node` for mac)
 
 # Local Setup Instructions
-
-## Config
 
 1.  Clone this repository, jump into the root folder, creater `.env` file and install dependencies.
 ```
@@ -47,7 +45,7 @@ This should launch the app at `https://localhost:3000` with the API listening at
 
 5. Try to order some delicous pizza from the Pizza42 sotre.
 
-## Reffernces:
+# Reffernces:
 1. [Auth0's React Sampel SPA](https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01)
 2. [Auth0 React SDK](https://github.com/auth0/auth0-react)
 3. [Auth0 Documentation](https://auth0.com/docs/)
