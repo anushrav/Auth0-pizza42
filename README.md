@@ -41,7 +41,7 @@ API_SECRET='{Client Secret for M2M App}'
 
 4. Now you are ready to run this app by using `npm start`. 
 
-This should launch the app at `https://localhost:3000` with the API listening at `https://localhost:3001`
+   This should launch the app at `https://localhost:3000` with the API listening at `https://localhost:3001`
 
 5. Try to order some delicous pizza from the Pizza42 sotre.
 
