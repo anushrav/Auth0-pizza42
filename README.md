@@ -22,7 +22,7 @@ cd Auth0-pizza42
 touch .env
 npm install
 ```
-2. In your Auth0 Tenant create a Single Page Application (SPA) and an API. Copy the credentials generated to populate `auth_config.jason`.
+2. In your Auth0 Tenant create a [Single Page Application (SPA)](https://auth0.com/docs/quickstart/spa/react) and [register an API](https://auth0.com/docs/get-started/auth0-overview/set-up-apis). Copy the credentials generated to populate `auth_config.jason`.
 
 ```
 {
@@ -33,7 +33,7 @@ npm install
   "apiOrigin": "{Origin for your API}" 
 }
 ```
-3. Create Machine2Machie (M2M) for the backend. Copy the credentials generated to populate `.env`
+3. Create [Machine2Machie (M2M) App](https://auth0.com/docs/get-started/auth0-overview/create-applications/machine-to-machine-apps) for the backend. Copy the credentials generated to populate `.env`
 ```
 AUTH0_DOMAIN='{Auth0 Domain}'
 MGMT_API_AUDIENCE='{Auth0 Management API Identifier}'
