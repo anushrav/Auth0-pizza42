@@ -53,6 +53,7 @@ API_SECRET='{Client Secret for M2M App}'
 6. [Heroku Docs for Deploying with Git](https://devcenter.heroku.com/articles/git)
 7. [Nicolas Fry's Pizza42 App](https://github.com/nicolasiscoding/Pizza42)
 8. [Helmet for Express](https://helmetjs.github.io/)
+9. [Peri Elgo's Pizza42 App](https://github.com/perieglo/Pizza42)
 
 
 
