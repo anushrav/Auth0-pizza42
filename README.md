@@ -51,7 +51,8 @@ API_SECRET='{Client Secret for M2M App}'
 4. [Express Boilerplate App](https://github.com/hagopj13/node-express-boilerplate) by [Hagop Jamkojian](https://github.com/hagopj13)
 5. [Deploy your first Heroku app](https://www.youtube.com/watch?v=MxfxiR8TVNU&ab_channel=JonnyKalambay) by [Jonny Kalambay](https://www.youtube.com/watch?v=MxfxiR8TVNU&ab_channel=JonnyKalambay)
 6. [Heroku Docs for Deploying with Git](https://devcenter.heroku.com/articles/git)
-7. (https://github.com/nicolasiscoding/Pizza42)
+7. [Nicolas Fry's Pizza42 App](https://github.com/nicolasiscoding/Pizza42)
+8. [Helmet for Express](https://helmetjs.github.io/)
 
 
 
